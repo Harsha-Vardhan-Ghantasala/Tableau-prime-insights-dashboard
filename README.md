@@ -1,71 +1,43 @@
-# Tableau Prime Insights Dashboard 🎬📊
+# Tableau Prime Insights Dashboard
 
-Welcome to **Prime Insights Dashboard** – a data visualization project that analyzes Amazon Prime content using interactive Tableau dashboards. This project provides valuable insights into genres, ratings, categories, release years, and top shows available on the Amazon Prime platform.
+This project is a Tableau dashboard that analyzes Amazon Prime video content using visualizations such as bar charts, pie charts, and more. It highlights trends in show categories, genres, release years, and top-rated titles.
 
----
+## Features
 
-## 🌟 Project Overview
+- Genre and category breakdown
+- Top-rated and most popular shows
+- Distribution of content by release year and country
+- Clean, interactive visuals built with Tableau
 
-This repository features a comprehensive visual breakdown of the Amazon Prime dataset, sourced from Kaggle. It utilizes Tableau for building clean, insightful, and interactive charts to help uncover trends and patterns in streaming content.
+## Dataset
 
-📁 **Dataset**: `amazon_prime_titles.csv`  
-📌 **Tool Used**: Tableau Public  
-📊 **Visualization Types**:
-- Bar Charts
-- Pie Charts
-- Scatter Plots
-- Horizontal Comparisons
+- Source: [Amazon Prime Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+- File used: `amazon_prime_titles.csv`
 
----
+## Visuals
 
-## 🚀 Features
+- All charts are created in Tableau and exported as images.
+- Example charts:
+  - Top Genres by Percentage
+  - Show Category Distribution
+  - Shows by Release Year
+  - Country Availability
+  - Top Ratings
 
-✔️ Genre and category-wise distribution of shows  
-✔️ Rating trends across countries and time  
-✔️ Show releases by year for time-series analysis  
-✔️ Top-rated and most frequent show categories  
-✔️ Clean, user-friendly visual design for storytelling
+## How to Use
 
----
+1. Open the dataset in Tableau or any data visualization tool.
+2. Use filters like category, release year, or country to explore.
+3. Recreate visuals using your preferred style or explore the ones provided in the repo.
 
-## 🛠️ How to Use
+## About
 
-You can explore this dashboard by:
+- Author: Sai Harsha Vardhan Ghantasala
+- Master’s Student in Computer Engineering, University of Dayton
+- LinkedIn: [harshavardhanghantasala](https://linkedin.com/in/harshaghantasala)
+- Email: harshavardhanghantasala@gmail.com
 
-1. Downloading the Tableau `.twbx` file (if available in future updates)
-2. Or recreating visuals by loading the dataset in [Tableau Public](https://public.tableau.com/)
-3. Apply filters like:
-   - Show Type (Movie/TV Show)
-   - Release Year
-   - Country
-   - Genre
-4. Analyze patterns using visual charts above.
+## License
 
----
+This project is open-source under the [MIT License](LICENSE).
 
-> 💡 All image files are original Tableau exports created during the analysis phase.
-
----
-
-## 📊 Dataset Source
-
-**Kaggle**: [Amazon Prime Titles Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
-
----
-
-## 📘 License
-
-This project is open-source and licensed under the MIT License. Feel free to fork and use with attribution.
-
----
-
-## 🙋‍♂️ About the Author
-
-**Sai Harsha Vardhan Ghantasala**  
-🎓 Master's in Computer Engineering, University of Dayton  
-🔗 [LinkedIn](https://linkedin.com/in/harshaghantasala)  
-💻 [GitHub](github.com/Harsha-Vardhan-Ghantasala)  
-📫 harshavardhanghantasala@gmail.com
-
----
-## ⭐ Star this repo if you like the project!
